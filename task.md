@@ -6,6 +6,9 @@
 * The modules should enable developers to use those two native frameworks in their React Native apps.
 * Module should map at least one API from the ones provided by the native modules.
 * Create a sample app for each framework that demonstrates how the modules you created can be used.
+	* Running the app should be possible just by fetching the dependencies using `npm install`, then running it using `react-native run-ios` or `react-native run-android`.
+	* App should use APIs mapped in the created modules.
+	* Submissions with sample apps that do not run or aren't calling mapped APIs will immediately be rejected.
 * **Bonus:** create a Xamarin, Cordova or Unity plugin for one the native frameworks.
 
 ## Deliverables

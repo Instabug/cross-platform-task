@@ -8,7 +8,7 @@
 * Create a sample app for each framework that demonstrates how the modules you created can be used.
 	* Running the app should be possible just by fetching the dependencies using `npm install`, then running it using `react-native run-ios` or `react-native run-android`.
 	* App should use APIs mapped in the created modules.
-	* Submissions with sample apps that do not run or aren't calling mapped APIs will immediately be rejected.
+	* Submissions with sample apps that do not run or aren't calling mapped APIs will immediately be rejected, so make sure that when your compressed app is uncompressed, everything works as expected.
 * **Bonus:** create a Xamarin, Cordova or Unity plugin for one the native frameworks.
 
 ## Deliverables

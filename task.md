@@ -1,6 +1,6 @@
 # Instabug Cross-Platform Developer Task
 
-* Create a React Native module for the two following iOS and Android frameworks.
+* Create a React Native module that's available as an npm package for the two following iOS and Android frameworks.
 	* [IBGxNetworkManager - iOS](https://github.com/Instabug/cross-platform-task/raw/master/IBGxNetworkManager.zip): used to create and run HTTP requests conveniently.
 	* [Instacapture - Android](https://github.com/Instabug/cross-platform-task/raw/master/Instacapture.zip): used to capture a screenshot of all the current content on a screen.
 * The modules should enable developers to use those two native frameworks in their React Native apps.
